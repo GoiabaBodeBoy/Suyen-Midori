@@ -18,7 +18,7 @@
     "reconlx": "^2.5.2"
   },
   "devDependencies": {
-    "node": "17.7.2"
+    "node": "^17.7.1"
   },
   "description": ""
 }
