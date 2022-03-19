@@ -1,2 +1,2 @@
-# suyen-midori
+# Suyen Midori
 Tormenta20!
