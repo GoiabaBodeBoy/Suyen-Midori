@@ -6,7 +6,7 @@ res.sendFile(path.join(__dirname+'/index.html'))
 })
 app.listen(process.env.TOKEN);
 
-const { MessageEmbed, Client, MessageButton, Collection, Intents } = require("discord.js");
+const { MessageEmbed, Client, Collection, Intents } = require("discord.js");
 const intents = new Intents(1991);
 const client = new Client({ intents });
 client.commands = new Collection();
